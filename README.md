@@ -1,2 +1,2 @@
-## Repository for strong C++ practice codes
+## Repository for storing C++ practice codes
 
